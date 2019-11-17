@@ -1,0 +1,85 @@
+}
+"animal":[
+{
+  "id": 1,
+  "name": "Dunnart, fat-tailed",
+  "category": "Orange"
+}, {
+  "id": 2,
+  "name": "Seal, harbor",
+  "category": "Goldenrod"
+}, {
+  "id": 3,
+  "name": "Fringe-eared oryx",
+  "category": "Orange"
+}, {
+  "id": 4,
+  "name": "Eland, common",
+  "category": "Khaki"
+}, {
+  "id": 5,
+  "name": "Water monitor",
+  "category": "Aquamarine"
+}, {
+  "id": 6,
+  "name": "Jackal, asiatic",
+  "category": "Mauv"
+}, {
+  "id": 7,
+  "name": "Two-toed sloth",
+  "category": "Violet"
+}, {
+  "id": 8,
+  "name": "American badger",
+  "category": "Blue"
+}, {
+  "id": 9,
+  "name": "Jaeger, long-tailed",
+  "category": "Green"
+}, {
+  "id": 10,
+  "name": "Goliath heron",
+  "category": "Fuscia"
+}, {
+  "id": 11,
+  "name": "Common waterbuck",
+  "category": "Mauv"
+}, {
+  "id": 12,
+  "name": "Baboon, gelada",
+  "category": "Teal"
+}, {
+  "id": 13,
+  "name": "Malachite kingfisher",
+  "category": "Yellow"
+}, {
+  "id": 14,
+  "name": "Partridge, coqui",
+  "category": "Yellow"
+}, {
+  "id": 15,
+  "name": "Meerkat, red",
+  "category": "Pink"
+}, {
+  "id": 16,
+  "name": "Mongoose, eastern dwarf",
+  "category": "Fuscia"
+}, {
+  "id": 17,
+  "name": "Marten, american",
+  "category": "Khaki"
+}, {
+  "id": 18,
+  "name": "Flamingo, chilean",
+  "category": "Blue"
+}, {
+  "id": 19,
+  "name": "Jackrabbit, white-tailed",
+  "category": "Maroon"
+}, {
+  "id": 20,
+  "name": "Stanley crane",
+  "category": "Indigo"
+}
+]
+}
